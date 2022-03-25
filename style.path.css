@@ -1,0 +1,12 @@
+.parsons {
+color:black;
+text-decoration:none;
+}
+.parsons:hover{
+  color:  Gray;
+}
+
+H2{
+  color: black;
+  font-style: italic;
+}
